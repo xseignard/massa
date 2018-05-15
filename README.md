@@ -5,7 +5,7 @@ Tested with http://www.massa.com/industrial/ultrasonic-sensors/pulstar/
 ## Install
 
 *   Install node.js: https://nodejs.org/en/
-*   Clone the repository: `git clone https://github.com/xseignard/massa.git`
+*   Clone or download the repository: `git clone https://github.com/xseignard/massa.git` OR download https://github.com/xseignard/massa/archive/master.zip
 *   cd into the folder: `cd massa`
 *   Install the dependencies: `npm install`
 

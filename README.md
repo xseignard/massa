@@ -19,3 +19,18 @@ If something goes wrong during `npm install` please check https://github.com/nod
 
 Example:
 `node index -p COM3 -i 500` will try to open the `COM3` port and request the status every 500ms.
+
+Expected output:
+
+```
+=====================
+Sensor ID: 1
+Response code: 0,0,0,1,0,0,1
+Error: No error
+VOut operating mode: Linear
+Mode operation: Linear
+Detection: Yes
+Target strength: 25%
+Range to target: 121.38cm, 47.79in
+Temp: 19.79°C
+```

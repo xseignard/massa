@@ -1,0 +1,24 @@
+{
+  "name": "massa",
+  "version": "0.0.1",
+  "description": "Use Massa sensor with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseignard/massa.git"
+  },
+  "author": "Xavier Seignard <xavier.seignard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xseignard/massa/issues"
+  },
+  "homepage": "https://github.com/xseignard/massa#readme",
+  "dependencies": {
+    "@serialport/parser-byte-length": "^1.0.5",
+    "commander": "^2.15.1",
+    "serialport": "^6.2.0"
+  }
+}
